@@ -95,6 +95,8 @@ This line, which varies based on personal risk tolerance, indicates that while h
 
 It's important to note that this analysis is based on historical data. For instance, AAL shows high risk and negative returns due to COVID-19 impacts, but future gains are uncertain, as the airline industry may rebound or face bankruptcy.
 
+![IMG-20241023-WA0005](https://github.com/user-attachments/assets/f1e44deb-689a-45d9-8ac0-996d5bbb7163)
+
 ### Simple Moving Average
 
 A Simple Moving Average (SMA) is a continuously updated average price over a specific period. For example, a 10-day SMA averages the first 10 closing prices for the initial data point. The next data point then includes the 11th closing price while dropping the first, creating a rolling average. This process smooths out day-to-day volatility and highlights underlying stock price trends. Shorter time frames yield less smoothness but better reflect the source data.
