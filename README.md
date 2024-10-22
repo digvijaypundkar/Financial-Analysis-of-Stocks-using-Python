@@ -26,6 +26,8 @@ The `.describe()` method is used to generate descriptive statistics, helping ide
 
 A heatmap is used to visualize missing data. For stocks like **Zoom**, gaps in data occur before their IPO date—April 18, 2019—resulting in missing values for earlier dates, which is expected and not a cause for concern.
 
+![IMG-20241023-WA0004](https://github.com/user-attachments/assets/0124459a-11f8-4c10-827c-64de9a8c7693)
+
 ### Closing Prices Over Time
 
 A line chart of closing prices is an excellent way to visualize stock trends and detect key market movements. To create this, the adjusted closing prices of each stock are extracted into a new dataframe using the `pandas.DataFrame.xs()` method.
@@ -34,7 +36,11 @@ The `plotly` package was used for its simplicity, aesthetics, and interactivity,
 
 However, **Zoom (ZM)** defied this trend, with its stock soaring as the platform became essential for virtual communication during lockdowns. This chart offers a great way to explore such stories and uncover market patterns.
 
+![IMG-20241023-WA0007](https://github.com/user-attachments/assets/8196ce4c-c951-4859-9834-7f5241ad3611)
+
 ### Candlestick Charts
+
+![image](https://github.com/user-attachments/assets/3ae4bf4b-1d9b-4e63-ade2-2d8aca537d9d)
 
 A candlestick chart provides a detailed view of stock price movements, summarizing the open, close, high, and low prices for each trading day. Candlesticks are green if the closing price is higher than the opening price, indicating bullish sentiment, while they are red if the price falls. The length of the candlestick reflects intraday volatility, offering insights into investor sentiment.
 
@@ -78,6 +84,8 @@ Visualizing the distributions of daily returns further clarifies these findings.
 The distribution plot in **Figure 6** compares AAL's daily returns for 2019 and 2020. The 2019 returns show a tighter range, while 2020's distribution is much wider, reflecting fluctuating investor sentiment driven by hefty flight cancellations and occasional positive news about vaccines. This volatility resulted in exaggerated price movements. 
 
 While the focus here is on the impact of COVID-19, extending the analysis period can provide insights into a company's historical stability over multiple years.
+
+![IMG-20241023-WA0001](https://github.com/user-attachments/assets/0c4cdf18-1c91-4d12-87bc-6216381cafc7)
 
 ### Risk vs. Returns
 
