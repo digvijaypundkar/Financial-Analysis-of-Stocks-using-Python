@@ -8,7 +8,7 @@ The `yfinance` package, which wraps the Yahoo Finance API, provides extensive fi
 
 ### Data Preparation
 
-The analysis covers stock data from January 2018 to mid-August 2020, focusing on the impact of COVID-19. Key stocks include SPY, AAL, ZM, NFLX, and FB. Data, including price and volume, was retrieved using yfinance and combined into a single dataframe for easy comparison.
+The analysis covers stock data from January 2018 to mid-August 2020, focusing on the impact of COVID-19.
 
 Key stocks of interest include:
 •⁠  ⁠*S&P 500 ETF (SPY)*: A broad representation of the U.S. economy.
