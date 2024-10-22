@@ -103,6 +103,8 @@ A Simple Moving Average (SMA) is a continuously updated average price over a spe
 
 In this analysis, I use the **cufflinks** package to plot the moving averages. The 10-day moving average for Netflix's (NFLX) closing prices demonstrates how the SMA reduces the jagged peaks and valleys, revealing a clearer upward trend over the past two years.
 
+![IMG-20241023-WA0002](https://github.com/user-attachments/assets/2742726b-d033-4620-8d23-5a2d2afb184e)
+
 ### Bollinger Band Plots
 
 Bollinger Band plots are a technical analysis tool consisting of three lines: a Simple Moving Average (SMA) and two bounding lines set at ±2 standard deviations from a 20-day SMA. 
@@ -110,3 +112,7 @@ Bollinger Band plots are a technical analysis tool consisting of three lines: a 
 These bands help identify oversold or overbought conditions in stocks. When a stock’s price approaches the upper band, it may be considered overbought, while proximity to the lower band suggests it is oversold. Although not a sole basis for trading decisions, movements near these bands can indicate unusual price levels, making oversold stocks appealing for purchase.
 
 Additionally, Bollinger Bands are useful for monitoring volatility. The bands widen during periods of high volatility and contract during calmer market conditions—a phenomenon known as a "squeeze." Traders often view squeezes as potential trading opportunities, anticipating that they may precede increased volatility, although the direction of the price movement remains uncertain.
+
+![IMG-20241023-WA0003](https://github.com/user-attachments/assets/e7644df0-7519-4451-8afe-24eb74ce1e2b)
+
+![IMG-20241023-WA0006](https://github.com/user-attachments/assets/933ec9e8-4272-4b69-a00d-42453a238049)
